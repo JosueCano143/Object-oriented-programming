@@ -1,0 +1,9 @@
+p Karla_Rosas NL Monterrey 64890 Javier_Garza Coah Saltillo 25015 30 10 20
+s Manuel_Flores Coah Saltillo 25023 Elsa_Torres NL Monterrey 64840 10 10 20 50
+s Erika_Ruiz NL San_Pedro 66278 Salvador_Leal Jalisco Guadalajara 44190 10 25 30 50
+s Marco_Casas Jalisco Guadalajara 44240 Jorge_Torres Coah Saltillo 25015 10 30 40 50
+p Elsa_Torres NL Monterrey 64840 Salvador_Leal Jalisco Guadalajara 44190 30 12 20
+s Javier_Garza Coah Saltillo 25015 Karla_Rosas NL Monterrey 64890 10 5 10 50
+p Jorge_Torres Coah Saltillo 25015 Marco_Casas Jalisco Guadalajara 44240 30 25 20
+s Salvador_Leal Jalisco Guadalajara 44190 Erika_Ruiz NL San_Pedro 66278 10 28 10 50
+

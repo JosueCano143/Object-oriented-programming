@@ -1,0 +1,57 @@
+Remitente:
+Nombre: Karla_Rosas
+Dirección: NL Monterrey 64890
+Destinatario:
+Nombre: Javier_Garza
+Dirección: Coah Saltillo 25015
+Costo: 230
+Remitente:
+Nombre: Manuel_Flores
+Dirección: Coah Saltillo 25023
+Destinatario:
+Nombre: Elsa_Torres
+Dirección: NL Monterrey 64840
+Costo: 10
+Remitente:
+Nombre: Erika_Ruiz
+Dirección: NL San_Pedro 66278
+Destinatario:
+Nombre: Salvador_Leal
+Dirección: Jalisco Guadalajara 44190
+Costo: 10
+Remitente:
+Nombre: Marco_Casas
+Dirección: Jalisco Guadalajara 44240
+Destinatario:
+Nombre: Jorge_Torres
+Dirección: Coah Saltillo 25015
+Costo: 60
+Remitente:
+Nombre: Elsa_Torres
+Dirección: NL Monterrey 64840
+Destinatario:
+Nombre: Salvador_Leal
+Dirección: Jalisco Guadalajara 44190
+Costo: 270
+Remitente:
+Nombre: Javier_Garza
+Dirección: Coah Saltillo 25015
+Destinatario:
+Nombre: Karla_Rosas
+Dirección: NL Monterrey 64890
+Costo: 10
+Remitente:
+Nombre: Jorge_Torres
+Dirección: Coah Saltillo 25015
+Destinatario:
+Nombre: Marco_Casas
+Dirección: Jalisco Guadalajara 44240
+Costo: 530
+Remitente:
+Nombre: Salvador_Leal
+Dirección: Jalisco Guadalajara 44190
+Destinatario:
+Nombre: Erika_Ruiz
+Dirección: NL San_Pedro 66278
+Costo: 10
+Total envios: 1130
