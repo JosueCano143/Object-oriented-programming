@@ -1,0 +1,5 @@
+j Phillip_Lindsay Colorado 21 11 1995 30 Running_back
+j Dak_Prescott Cowboys 13 3 1990 40 Running_back
+j Derek_Carr Raiders 8 7 1989 50 Running_back
+e Mike_Mccarthy Cowboys 5 8 1999 Head_Coach
+e Kellen_Moore Cowboys 9 12 2000 Tackleo
