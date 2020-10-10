@@ -1,0 +1,50 @@
+p 110 Avatar Ciencia_ficcion 161 5 james
+p 111 Batman_El_caballero_de_la_noche Accion 152 4 christopher
+p 112 Guason Drama 121 5 todd
+p 113 La_La_Land Musical 127 4 damien
+p 114 Toy_Story_3 Animacion 103 4 lee
+p 115 1917 Drama 119 4 sam
+p 116 Parasitos Drama 132 4 bong
+p 117 Avengers_Endgame Ciencia_ficcion 181 5 joe
+p 118 Intensa_Mente Animacion 94 4 pete
+p 119 Capitan_America_Civil_War Ciencia_ficcion 147 4 joe
+p 120 Guardianes_de_la_galaxia Ciencia_ficcion 118 3 james
+e 210 The_Vanishing_of_Will_Byers Ciencia_ficcion 42 5 matt Stranger_things 1 1
+e 211 The_Weirdo_on_Maple Ciencia_ficcion 42 5 matt Stranger_things 2 1
+e 212 Holly_Jolly Ciencia_ficcion 42 4 matt Stranger_things 3 1
+e 213 The_Body Ciencia_ficcion 42 4 matt Stranger_things 4 1
+e 214 The_Flea_and_the_Acrobat Ciencia_ficcion 42 5 matt Stranger_things 5 1
+e 216 The_Monster Ciencia_ficcion 42 5 matt Stranger_things 6 1
+e 217 The_Bathtub Ciencia_ficcion 42 5 matt Stranger_things 7 1
+e 218 The_Upside_Down Ciencia_ficcion 42 5 matt Stranger_things 8 1
+e 219 MADMAX Ciencia_ficcion 42 5 matt Stranger_things 1 2
+e 220 Trick_or_Treat_Freak Ciencia_ficcion 42 5 matt Stranger_things 2 2
+e 221 The_Pollywog Ciencia_ficcion 42 5 matt Stranger_things 3 2
+e 222 The_Spy Ciencia_ficcion 42 5 matt Stranger_things 4 2
+e 223 Pilot Comedia 39 4 0 How_I_met_your_mother 1 1
+e 224 Purple_Giraffe Comedia 42 4 pamela How_I_met_your_mother 2 1
+e 225 The_Sweet_Taste_of_Liberty Comedia 43 5 pamela How_I_met_your_mother 3 1
+e 226 The_One_with_the_Baby_on_the_Bus Comedia 41 4 pamela How_I_met_your_mother 4 2
+e 227 Return_of_the_Shirt Comedia 40 5 pamela How_I_met_your_mother 5 2
+e 228 Okay_Awesome Comedia 39 4 pamela How_I_met_your_mother 6 2
+p 229 Vertigo Romance 129 5 alfred
+p 230 Ciudadano_Kane Drama 119 4 orson
+p 231 El_Padrino Policial 180 5 francis
+p 232 El_Mago_de_Oz Musical 112 4 victor
+p 233 Volver_al_Futuro Comedia 116 4 robert
+p 234 Titanic Romance 195 5 james
+p 235 Rocky Drama 122 4 john
+p 236 Los_Siete_Samurais Accion 207 5 akira
+p 237 Up_una_Aventura_de_Altura Animacion 96 5 pete
+p 238 Amadeus Drama 180 4 milos 
+p 239 Los_Cazafantasmas Comedia 134 4 ivan
+p 240 El_Rey_Leon Animacion 118 4 rob
+e 241 La_Casa_de_las_Flores Comedia 71 5 manolo La_casa_de_las_flores 1 1 
+e 242 Es_Mejor_Asi Comedia 237 5 manolo La_casa_de_las_flores 3 1
+e 243 Mio Comedia 220 5 manolo La_casa_de_las_flores 4 1
+e 244 Tormento Comedia 276 4 manolo La_casa_de_las_flores 6 1
+e 245 Timido Comedia 220 4 manolo La_casa_de_las_flores 8 1
+e 246 Senora Comedia 187 3 manolo La_casa_de_las_flores 14 1
+e 247 Mi_Gran_Noche Comedia 186 4 manolo La_casa_de_las_flores 15 1
+e 248 Nieva_Nieva Comedia 212 5 manolo La_casa_de_las_flores 17 1
+e 249 El_Triste Comedia 302 5 manolo La_casa_de_las_flores 23 1
